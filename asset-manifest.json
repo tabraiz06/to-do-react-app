@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/todoListAPP/static/css/main.b957122b.css",
+    "main.js": "/todoListAPP/static/js/main.bab97407.js",
+    "static/js/787.f1f814ab.chunk.js": "/todoListAPP/static/js/787.f1f814ab.chunk.js",
+    "static/media/pngwing.com.png": "/todoListAPP/static/media/pngwing.com.f28c6a91f5fb4d1e2f11.png",
+    "index.html": "/todoListAPP/index.html",
+    "main.b957122b.css.map": "/todoListAPP/static/css/main.b957122b.css.map",
+    "main.bab97407.js.map": "/todoListAPP/static/js/main.bab97407.js.map",
+    "787.f1f814ab.chunk.js.map": "/todoListAPP/static/js/787.f1f814ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b957122b.css",
+    "static/js/main.bab97407.js"
+  ]
+}
