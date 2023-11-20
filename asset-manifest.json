@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/todoListAPP/static/css/main.b957122b.css",
-    "main.js": "/todoListAPP/static/js/main.bab97407.js",
-    "static/js/787.f1f814ab.chunk.js": "/todoListAPP/static/js/787.f1f814ab.chunk.js",
-    "static/media/pngwing.com.png": "/todoListAPP/static/media/pngwing.com.f28c6a91f5fb4d1e2f11.png",
-    "index.html": "/todoListAPP/index.html",
-    "main.b957122b.css.map": "/todoListAPP/static/css/main.b957122b.css.map",
-    "main.bab97407.js.map": "/todoListAPP/static/js/main.bab97407.js.map",
-    "787.f1f814ab.chunk.js.map": "/todoListAPP/static/js/787.f1f814ab.chunk.js.map"
+    "main.css": "/to-do-react-app/static/css/main.b957122b.css",
+    "main.js": "/to-do-react-app/static/js/main.6626c57e.js",
+    "static/js/787.f1f814ab.chunk.js": "/to-do-react-app/static/js/787.f1f814ab.chunk.js",
+    "static/media/pngwing.com.png": "/to-do-react-app/static/media/pngwing.com.f28c6a91f5fb4d1e2f11.png",
+    "index.html": "/to-do-react-app/index.html",
+    "main.b957122b.css.map": "/to-do-react-app/static/css/main.b957122b.css.map",
+    "main.6626c57e.js.map": "/to-do-react-app/static/js/main.6626c57e.js.map",
+    "787.f1f814ab.chunk.js.map": "/to-do-react-app/static/js/787.f1f814ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b957122b.css",
-    "static/js/main.bab97407.js"
+    "static/js/main.6626c57e.js"
   ]
 }
